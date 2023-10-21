@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "653427c0e743cd99bc64fb1b"
+  },
+  "title": "Breaking Bad",
+  "genre": "Crime",
+  "year": 2008,
+  "rating": 9.5,
+  "network": "AMC"
+},
+{
+  "_id": {
+    "$oid": "653427c0e743cd99bc64fb1c"
+  },
+  "title": "Game of Thrones",
+  "genre": "Drama",
+  "year": 2011,
+  "rating": 9.3,
+  "network": "HBO"
+},
+{
+  "_id": {
+    "$oid": "653427c0e743cd99bc64fb1d"
+  },
+  "title": "Stranger Things",
+  "genre": "Dramar",
+  "year": 2016,
+  "rating": 8.7,
+  "network": "Netflix"
+},
+{
+  "_id": {
+    "$oid": "653427c0e743cd99bc64fb1e"
+  },
+  "title": "The Crown",
+  "genre": "Biography",
+  "year": 2016,
+  "rating": 8.7,
+  "network": "Netflix"
+},
+{
+  "_id": {
+    "$oid": "653427c0e743cd99bc64fb1f"
+  },
+  "title": "Friends",
+  "genre": "Comedy",
+  "year": 1994,
+  "rating": 8.5,
+  "network": "NBC"
+}]
